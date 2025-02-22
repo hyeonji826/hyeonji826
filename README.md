@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **hyeonji826/hyeonji826** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Hello, I'm Hyeonji 👋
+
+I'm a data analysis and coding learner with an interest in AI-based healthcare software development. I use Python, R, and SQL for data analysis and am challenging myself to develop AI models.
+
+## Skills
+
+- **Programming Languages**: Python, R, SQL
+- **AI & Maching Learning**:
+- **Data Analysis**:
+- **Tools**:Git, Github

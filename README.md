@@ -18,7 +18,7 @@ I'm a data analysis and coding learner with an interest in AI-based healthcare s
 
 ## Skills
 
-- **Programming Languages**: Python, R, SQL
+- **Programming Languages**: Python, R, HTML
 - **AI & Maching Learning**: Tensorflow
 - **Data Analysis**:
 - **Tools**: Git, Github

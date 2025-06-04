@@ -18,7 +18,7 @@ I'm a data analysis and coding learner with an interest in AI-based healthcare s
 
 ## Skills
 
-- **Programming Languages**: Python,JavaScript
+- **Programming Languages**: Python,JavaScript,Java
 - **AI & Maching Learning**: 
 - **Data Analysis**:MySQL, MongoDB, Mongoose ,...
 - **Tools**: Git, Github

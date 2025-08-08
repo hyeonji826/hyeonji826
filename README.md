@@ -1,24 +1,20 @@
-<!--
-**hyeonji826/hyeonji826** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 # Hello, I'm Hyeonji 👋
 
 I'm a data analysis and coding learner with an interest in AI-based healthcare software development. I use Python, R, and SQL for data analysis and am challenging myself to develop AI models.
 
 ## Skills
 
-- **Programming Languages**: Python,JavaScript,Java
-- **AI & Maching Learning**: 
-- **Data Analysis**:MySQL, MongoDB, Mongoose ,...
-- **Tools**: Git, Github
+- **Programming Languages**  
+  Python, JavaScript, Java, R, SQL
+
+- **AI & Machine Learning**  
+  PyTorch, TensorFlow, scikit-learn, YOLO, Stable Diffusion, Dreambooth, LoRA, OCR (Tesseract), Segment Anything (SAM), FastAPI
+
+- **Data Analysis**  
+  Pandas, NumPy, Matplotlib, Seaborn, MySQL, MongoDB
+
+- **Tools**  
+  Git, GitHub, Google Colab, Jupyter Notebook, VSCode, PyCharm, AWS EC2/S3, Postman, Selenium
+
+- **Web & App**  
+  HTML, CSS, SCSS, React.js, Node.js, Express, REST API, WebRTC, Socket.io, React Native

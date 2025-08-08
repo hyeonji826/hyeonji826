@@ -4,8 +4,8 @@ I'm a data analysis and coding learner with an interest in AI-based healthcare s
 
 ## Profile
 **Email** | shguswl826@gmail.com <br />
-**Phone** | 010-8986-5324 <br />
-**blog** | https://hyeonji826.tistory.com/
+**blog** | https://hyeonji826.tistory.com/ <br />
+**Phone** | 010-8986-5324 
 
 <table>
   <tr>

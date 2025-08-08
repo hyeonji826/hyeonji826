@@ -3,8 +3,8 @@
 I'm a data analysis and coding learner with an interest in AI-based healthcare software development. I use Python, R, and SQL for data analysis and am challenging myself to develop AI models.
 
 ## Profile
-:📧: **Email** | dun04045@gmail.com <br />
-:☎️: **Phone** | 010-2795-9393
+**Email** | shguswl826@gmail.com <br />
+**Phone** | 010-8986-5324
 
 <table>
   <tr>

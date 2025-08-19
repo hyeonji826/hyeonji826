@@ -1,6 +1,6 @@
 # Hello, I'm Hyeonji 👋
 
-I'm a data analysis and coding learner with an interest in AI-based healthcare software development. I use Python, R, and SQL for data analysis and am challenging myself to develop AI models.
+I'm a data analysis and coding learner with an interest in AI-based healthcare software development.
 
 ## Profile
 **Email** | shguswl826@gmail.com <br />

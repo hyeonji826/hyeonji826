@@ -24,7 +24,7 @@ I'm a data analysis and coding learner with an interest in AI-based healthcare s
   Python, JavaScript, Java, R, SQL
 
 - **AI & Machine Learning**  
-  PyTorch, TensorFlow, scikit-learn, YOLO, Stable Diffusion, Dreambooth, LoRA, OCR (Tesseract), Segment Anything (SAM), FastAPI
+  PyTorch, TensorFlow, scikit-learn, YOLO, Stable Diffusion, Dreambooth, LoRA, OCR (Tesseract, easyOCR, paddleOCR), Segment Anything (SAM), FastAPI
 
 - **Data Analysis**  
   Pandas, NumPy, Matplotlib, Seaborn, MySQL, MongoDB

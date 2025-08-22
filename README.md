@@ -5,6 +5,7 @@ I'm a data analysis and coding learner with an interest in AI-based healthcare s
 ## Profile
 **Email** | shguswl826@gmail.com <br />
 **blog** | https://hyeonji826.tistory.com/ <br />
+**portfolio** | https://www.notion.so/2457cdb288bf808d8cebde7886b5532b?source=copy_link/ <br />
 **Phone** | 010-8986-5324 <br />
 **Team Project** | [AI 프로젝트 ](https://github.com/group5-ocr), [공유마당 공모전](https://github.com/minhwa-studio)
 

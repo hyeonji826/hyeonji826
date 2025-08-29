@@ -46,7 +46,7 @@ I'm a data analysis and coding learner with an interest in AI-based healthcare s
   <!-- AI 프로젝트 레포 예시 (소유자: group5-ocr, 레포명: REPLACE_ME) -->
   <a href="https://github.com/group5-ocr/REPLACE_ME" target="_blank">
     <img
-      src="https://github-readme-stats.vercel.app/api/pin/?username=group5-ocr&repo=REPLACE_ME&theme=transparent&show_owner=true"
+      src="https://github-readme-stats.vercel.app/api/pin/?username=group5-ocr&repo=POLO&theme=transparent&show_owner=true"
       alt="group5-ocr / REPLACE_ME"
     />
   </a>
@@ -54,7 +54,7 @@ I'm a data analysis and coding learner with an interest in AI-based healthcare s
   <!-- 공유마당 공모전 레포 예시 (소유자: minhwa-studio, 레포명: REPLACE_ME) -->
   <a href="https://github.com/minhwa-studio/REPLACE_ME" target="_blank">
     <img
-      src="https://github-readme-stats.vercel.app/api/pin/?username=minhwa-studio&repo=REPLACE_ME&theme=transparent&show_owner=true"
+      src="https://github-readme-stats.vercel.app/api/pin/?username=minhwa-studio&repo=AI&theme=transparent&show_owner=true"
       alt="minhwa-studio / REPLACE_ME"
     />
   </a>

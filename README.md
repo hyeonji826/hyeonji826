@@ -105,3 +105,44 @@ I'm a data analysis and coding learner with an interest in AI-based healthcare s
 </p>
 
 ---
+<p align="left">
+  <!-- 원하는 레포 이름으로 바꿔도 돼요 -->
+  <a href="https://github.com/group5-ocr" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=group5-ocr&repo=group5-ocr&theme=transparent" />
+  </a>
+  <a href="https://github.com/minhwa-studio" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=minhwa-studio&repo=minhwa-studio&theme=transparent" />
+  </a>
+</p>
+
+<!-- 본인 계정 레포 고정 예시
+<p align="left">
+  <a href="https://github.com/hyeonji826/AI"><img src="https://github-readme-stats.vercel.app/api/pin/?username=hyeonji826&repo=AI&theme=transparent"/></a>
+  <a href="https://github.com/hyeonji826/BridgeHub"><img src="https://github-readme-stats.vercel.app/api/pin/?username=hyeonji826&repo=BridgeHub&theme=transparent"/></a>
+</p>
+-->
+
+---
+
+## 🗂️ Featured Notion Docs
+<p>
+  <a href="https://www.notion.so/2457cdb288bf808d8cebde7886b5532b" target="_blank">📒 Portfolio (Notion)</a> ·
+  <a href="https://www.notion.so/24ca304ac11280cdb6e1fa0952c846dc" target="_blank"> AI 프로젝트 진행 문서</a> ·
+  <a href="https://www.notion.so/Minhwa-Studio-2547cdb288bf80e7a18ee507a07335aa" target="_blank"> 공유마당 공모전</a>
+</p>
+
+---
+
+## 📬 Contact & Badges
+
+<p>
+  <a href="mailto:shguswl826@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge"/></a>
+  <a href="https://hyeonji826.tistory.com/"><img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge"/></a>
+  <a href="https://github.com/hyeonji826"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge"/></a>
+</p>
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=hyeonji826&label=visitors&color=0e75b6&style=flat-square" alt="Visitor Badge"/>
+</p>
+
+---

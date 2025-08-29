@@ -14,6 +14,7 @@ I'm a data analysis and coding learner with an interest in AI-based healthcare s
   <tr>
     <td>
       <img src="https://github-readme-stats.vercel.app/api?username=hyeonji826&show_icons=true&theme=transparent" />
+      
     </td>
     <td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyeonji826&layout=donut" />

@@ -13,14 +13,26 @@ I'm a data analysis and coding learner with an interest in AI-based healthcare s
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=hyeonji826&show_icons=true&theme=transparent" />
-      
+      <!-- 프로필 카드 클릭 시 깃허브 프로필로 이동 -->
+      <a href="https://github.com/hyeonji826" target="_blank" rel="noopener noreferrer">
+        <img
+          src="https://github-readme-stats.vercel.app/api?username=hyeonji826&show_icons=true&include_all_commits=true&count_private=true&theme=transparent"
+          alt="Hyeonji's GitHub Stats"
+        />
+      </a>
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyeonji826&layout=donut" />
+      <!-- 언어 카드 클릭 시 레포지토리 탭으로 이동 -->
+      <a href="https://github.com/hyeonji826?tab=repositories" target="_blank" rel="noopener noreferrer">
+        <img
+          src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyeonji826&layout=donut&langs_count=8"
+          alt="Most Used Languages"
+        />
+      </a>
     </td>
   </tr>
 </table>
+
 
 ## Skills
 

@@ -8,12 +8,12 @@ I'm a data analysis and coding learner with an interest in AI-based healthcare s
 
 | **항목**          | **정보** |
 |------------------|-----------|
-| **📧 Email**      | shguswl826@gmail.com |
-| **📝 Blog**       | [Tistory](https://hyeonji826.tistory.com/) |
-| **📂 Portfolio**  | [Notion](https://www.notion.so/2457cdb288bf808d8cebde7886b5532b?source=copy_link/) |
-| **📱 Phone**      | 010-8986-5324 |
-| **👩‍💻 Team Project** | [AI 프로젝트](https://github.com/group5-ocr), [공유마당 공모전](https://github.com/minhwa-studio) |
-| **📑 Team Proceedings** | [AI 프로젝트](https://www.notion.so/24ca304ac11280cdb6e1fa0952c846dc?source=copy_link), [공유마당 공모전](https://www.notion.so/Minhwa-Studio-2547cdb288bf80e7a18ee507a07335aa?source=copy_link) |
+| **Email**      | shguswl826@gmail.com |
+| **Blog**       | [Tistory](https://hyeonji826.tistory.com/) |
+| **Portfolio**  | [Notion](https://www.notion.so/2457cdb288bf808d8cebde7886b5532b?source=copy_link/) |
+| **Phone**      | 010-8986-5324 |
+| **Team Project** | [AI 프로젝트](https://github.com/group5-ocr), [공유마당 공모전](https://github.com/minhwa-studio) |
+| **Team Proceedings** | [AI 프로젝트](https://www.notion.so/24ca304ac11280cdb6e1fa0952c846dc?source=copy_link), [공유마당 공모전](https://www.notion.so/Minhwa-Studio-2547cdb288bf80e7a18ee507a07335aa?source=copy_link) |
 
 ---
 
@@ -41,6 +41,19 @@ I'm a data analysis and coding learner with an interest in AI-based healthcare s
 </table>
 
 ---
+<p align="left">
+  <!-- AI 프로젝트 레포 -->
+  <a href="https://github.com/group5-ocr/ai-project" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=group5-ocr&repo=ai-project&theme=transparent" />
+  </a>
+
+  <!-- 공유마당 공모전 레포 -->
+  <a href="https://github.com/minhwa-studio/minhwa-app" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=minhwa-studio&repo=minhwa-app&theme=transparent" />
+  </a>
+</p>
+---
+
 
 ## 🛠️ Skills & Tech Stack
 
@@ -104,25 +117,7 @@ I'm a data analysis and coding learner with an interest in AI-based healthcare s
   <img src="https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
 </p>
 
----
-<p align="left">
-  <!-- 원하는 레포 이름으로 바꿔도 돼요 -->
-  <a href="https://github.com/group5-ocr" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=group5-ocr&repo=group5-ocr&theme=transparent" />
-  </a>
-  <a href="https://github.com/minhwa-studio" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=minhwa-studio&repo=minhwa-studio&theme=transparent" />
-  </a>
-</p>
-
-<!-- 본인 계정 레포 고정 예시
-<p align="left">
-  <a href="https://github.com/hyeonji826/AI"><img src="https://github-readme-stats.vercel.app/api/pin/?username=hyeonji826&repo=AI&theme=transparent"/></a>
-  <a href="https://github.com/hyeonji826/BridgeHub"><img src="https://github-readme-stats.vercel.app/api/pin/?username=hyeonji826&repo=BridgeHub&theme=transparent"/></a>
-</p>
--->
-
----
+----
 
 ## 🗂️ Featured Notion Docs
 <p>

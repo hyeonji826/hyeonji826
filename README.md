@@ -42,14 +42,11 @@ I'm a data analysis and coding learner with an interest in AI-based healthcare s
 
 ---
 <p align="left">
-  <!-- AI 프로젝트 레포 -->
-  <a href="https://github.com/group5-ocr/ai-project" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=group5-ocr&repo=ai-project&theme=transparent" />
+  <a href="https://github.com/group5-ocr/ocr-pipeline" target="_blank" rel="noopener noreferrer">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=group5-ocr&repo=ocr-pipeline&theme=transparent&show_owner=true&v=1" />
   </a>
-
-  <!-- 공유마당 공모전 레포 -->
-  <a href="https://github.com/minhwa-studio/minhwa-app" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=minhwa-studio&repo=minhwa-app&theme=transparent" />
+  <a href="https://github.com/minhwa-studio/minhwa-app" target="_blank" rel="noopener noreferrer">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=minhwa-studio&repo=minhwa-app&theme=transparent&show_owner=true&v=1" />
   </a>
 </p>
 ---

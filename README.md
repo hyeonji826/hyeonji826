@@ -125,28 +125,3 @@ I'm a data analysis and coding learner with an interest in AI-based healthcare s
   <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white"/>
   <img src="https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
 </p>
-
-----
-
-## 🗂️ Featured Notion Docs
-<p>
-  <a href="https://www.notion.so/2457cdb288bf808d8cebde7886b5532b" target="_blank">📒 Portfolio (Notion)</a> ·
-  <a href="https://www.notion.so/24ca304ac11280cdb6e1fa0952c846dc" target="_blank"> AI 프로젝트 진행 문서</a> ·
-  <a href="https://www.notion.so/Minhwa-Studio-2547cdb288bf80e7a18ee507a07335aa" target="_blank"> 공유마당 공모전</a>
-</p>
-
----
-
-## 📬 Contact & Badges
-
-<p>
-  <a href="mailto:shguswl826@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge"/></a>
-  <a href="https://hyeonji826.tistory.com/"><img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge"/></a>
-  <a href="https://github.com/hyeonji826"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge"/></a>
-</p>
-
-<p>
-  <img src="https://komarev.com/ghpvc/?username=hyeonji826&label=visitors&color=0e75b6&style=flat-square" alt="Visitor Badge"/>
-</p>
-
----

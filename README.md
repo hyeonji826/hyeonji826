@@ -1,72 +1,42 @@
-# Hello, I'm Hyeonji 👋
-
-I'm a data analysis and coding learner with an interest in AI-based healthcare software development.
-
----
-
-## 📌 Profile
-
-| **항목**          | **정보** |
-|------------------|-----------|
-| **Email**      | shguswl826@gmail.com |
-| **Blog**       | [Tistory](https://hyeonji826.tistory.com/) |
-| **Portfolio**  | [Notion](https://www.notion.so/2457cdb288bf808d8cebde7886b5532b?source=copy_link/) |
-| **Phone**      | 010-8986-5324 |
-| **Team Project** | [AI 프로젝트](https://github.com/group5-ocr), [공유마당 공모전](https://github.com/minhwa-studio) |
-| **Team Proceedings** | [AI 프로젝트](https://www.notion.so/24ca304ac11280cdb6e1fa0952c846dc?source=copy_link), [공유마당 공모전](https://www.notion.so/Minhwa-Studio-2547cdb288bf80e7a18ee507a07335aa?source=copy_link) |
-
----
-
-## 📊 GitHub Stats
-
-<table>
-  <tr>
-    <td>
-      <a href="https://github.com/hyeonji826" target="_blank" rel="noopener noreferrer">
-        <img
-          src="https://github-readme-stats.vercel.app/api?username=hyeonji826&show_icons=true&include_all_commits=true&count_private=true&theme=transparent"
-          alt="Hyeonji's GitHub Stats"
-        />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/hyeonji826?tab=repositories" target="_blank" rel="noopener noreferrer">
-        <img
-          src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyeonji826&layout=donut&langs_count=8"
-          alt="Most Used Languages"
-        />
-      </a>
-    </td>
-  </tr>
-</table>
-
----
-
-<p align="left">
-  <!-- AI 프로젝트 레포 예시 (소유자: group5-ocr, 레포명: REPLACE_ME) -->
-  <a href="https://github.com/group5-ocr/REPLACE_ME" target="_blank">
-    <img
-      src="https://github-readme-stats.vercel.app/api/pin/?username=group5-ocr&repo=POLO&theme=transparent&show_owner=true"
-      alt="group5-ocr / REPLACE_ME"
-    />
+<div align="center">
+  <a href="https://github.com/hyeonji826">
+    <img src="https://komarev.com/ghpvc/?username=hyeonji826&label=Profile%20views&color=0e75b6&style=flat" alt="hyeonji826's Profile Views" />
   </a>
+  
+  # 안녕하세요! 👋 저는 데이터 분석가 & AI 개발자 현지입니다.
 
-  <!-- 공유마당 공모전 레포 예시 (소유자: minhwa-studio, 레포명: REPLACE_ME) -->
-  <a href="https://github.com/minhwa-studio/REPLACE_ME" target="_blank">
-    <img
-      src="https://github-readme-stats.vercel.app/api/pin/?username=minhwa-studio&repo=AI&theme=transparent&show_owner=true"
-      alt="minhwa-studio / REPLACE_ME"
-    />
-  </a>
+  AI 기반 헬스케어 소프트웨어 개발에 관심이 많은 현지입니다.
+  데이터 분석과 코딩을 배우며 꾸준히 성장하고 있어요.
+  함께 소통하며 성장할 수 있는 분들을 환영합니다! ✨
+</div>
+
+---
+
+### 📚 My Projects
+
+| 프로젝트 | Notion 진행 상황 | GitHub 링크 |
+|:---:|:---:|:---:|
+| **AI 프로젝트** | [![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)](https://www.notion.so/24ca304ac11280cdb6e1fa0952c846dc?source=copy_link) | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/group5-ocr) |
+| **공유마당 공모전** | [![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)](https://www.notion.so/Minhwa-Studio-2547cdb288bf80e7a18ee507a07335aa?source=copy_link) | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/minhwa-studio) |
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hyeonji826&theme=dark" alt="GitHub Streak Stats" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hyeonji826&show_icons=true&include_all_commits=true&count_private=true&theme=transparent" alt="Hyeonji's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyeonji826&layout=donut&langs_count=8&theme=transparent" alt="Most Used Languages" />
+</p>
 
 ---
 
+### 🛠️ Skills & Tech Stack
 
-## 🛠️ Skills & Tech Stack
-
-### **💻 Programming Languages**
+#### 💻 Programming Languages
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
@@ -75,7 +45,7 @@ I'm a data analysis and coding learner with an interest in AI-based healthcare s
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"/>
 </p>
 
-### **🤖 AI & Machine Learning**
+#### 🤖 AI & Machine Learning
 <p>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
@@ -89,7 +59,7 @@ I'm a data analysis and coding learner with an interest in AI-based healthcare s
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
 </p>
 
-### **📊 Data Analysis**
+#### 📊 Data Analysis
 <p>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
@@ -99,7 +69,7 @@ I'm a data analysis and coding learner with an interest in AI-based healthcare s
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
 </p>
 
-### **⚙️ Tools & Cloud**
+#### ⚙️ Tools & Cloud
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
@@ -112,7 +82,7 @@ I'm a data analysis and coding learner with an interest in AI-based healthcare s
   <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
 </p>
 
-### **🌐 Web & App**
+#### 🌐 Web & App
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>

@@ -49,25 +49,60 @@
 
 #### 💻 Programming Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=python,js,java,r,sql" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=MySQL&logoColor=white"/>
 </p>
 
 #### 🤖 AI & Machine Learning
 <p>
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,scikitlearn,fastapi,git,github" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/YOLO-00FFFF?style=flat&logo=OpenCV&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Stable%20Diffusion-5A67D8?style=flat&logo=cloudflare&logoColor=white"/>
+  <img src="https://img.shields.io/badge/DreamBooth-8A2BE2?style=flat"/>
+  <img src="https://img.shields.io/badge/LoRA-FF69B4?style=flat"/>
+  <img src="https://img.shields.io/badge/OCR-Tesseract%2C%20EasyOCR%2C%20PaddleOCR-4285F4?style=flat&logo=google&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SAM-000000?style=flat&logo=Meta&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white"/>
 </p>
 
 #### 📊 Data Analysis
 <p>
-  <img src="https://skillicons.dev/icons?i=pandas,numpy,mongodb,mysql" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-005571?style=flat&logo=plotly&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Seaborn-76B900?style=flat&logo=plotly&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/>
 </p>
 
 #### ⚙️ Tools & Cloud
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm,aws,selenium" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat&logo=googlecolab&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VSCode-0078D4?style=flat&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyCharm-21D789?style=flat&logo=pycharm&logoColor=black"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white"/>
 </p>
 
 #### 🌐 Web & App
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,sass,react,nodejs,express,reactnative" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SCSS-CC6699?style=flat&logo=sass&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/REST%20API-0096D6?style=flat&logo=swagger&logoColor=white"/>
+  <img src="https://img.shields.io/badge/WebRTC-333333?style=flat&logo=webrtc&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Socket.io-010101?style=flat&logo=socket.io&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React%20Native-61DAFB?style=flat&logo=react&logoColor=black"/>
 </p>

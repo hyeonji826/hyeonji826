@@ -25,7 +25,7 @@
 
 ---
 
-### 💻 My Projects
+### 📚 My Projects
 
 <p align="left">
   <a href="https://github.com/group5-ocr/POLO" target="_blank">
@@ -37,14 +37,17 @@
 </p>
 
 ---
+
 ### 📊 GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/hyeonji826">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=hyeonji826&theme=dark" alt="GitHub Streak Stats" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=hyeonji826&show_icons=true&include_all_commits=true&count_private=true&theme=transparent" alt="Hyeonji's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyeonji826&layout=donut&langs_count=8" alt="Most Used Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hyeonji826&theme=dark" alt="GitHub Streak Stats" />
 </p>
+
 ---
+
 ### 🛠️ Skills & Tech Stack
 
 #### Programming Languages
@@ -80,7 +83,7 @@
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/>
 </p>
 
-#### Tools & Cloud
+####  Tools & Cloud
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>

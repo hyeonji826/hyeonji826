@@ -42,8 +42,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hyeonji826&show_icons=true&include_all_commits=true&count_private=true&theme=transparent" alt="Hyeonji's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyeonji826&layout=donut&langs_count=8" alt="Most Used Languages" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hyeonji826&theme=dark" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyeonji826&layout=donut&langs_count=8&theme=transparent" alt="Most Used Languages" />
 </p>
 
 ---

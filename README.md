@@ -27,14 +27,7 @@
 
 ### 📚 My Projects
 
-<p align="left">
-  <a href="https://github.com/group5-ocr/POLO" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=group5-ocr&repo=POLO&theme=transparent&show_owner=true" alt="group5-ocr / POLO" />
-  </a>
-  <a href="https://github.com/minhwa-studio/AI" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=minhwa-studio&repo=AI&theme=transparent&show_owner=true" alt="minhwa-studio / AI" />
-  </a>
-</p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=hyeonji826&show_icons=true&include_all_commits=true&count_private=true&theme=transparent" alt="Hyeonji's GitHub Stats" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyeonji826&layout=donut&langs_count=8&theme=transparent" alt="Most Used Languages" /> </p>
 
 ---
 

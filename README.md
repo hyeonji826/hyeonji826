@@ -3,9 +3,9 @@
     <img src="https://komarev.com/ghpvc/?username=hyeonji826&label=Profile%20views&color=0e75b6&style=flat" alt="hyeonji826's Profile Views" />
   </a>
   
-  # 안녕하세요! 👋 저는 데이터 분석가 & AI 개발자 현지입니다.
+  # 안녕하세요! 👋 저는 데이터 분석가 & AI 개발자 노현지입니다.
 
-  AI 기반 헬스케어 소프트웨어 개발에 관심이 많은 현지입니다.
+  AI 기반 헬스케어 소프트웨어 개발에 관심이 많은 노현지입니다.
   데이터 분석과 코딩을 배우며 꾸준히 성장하고 있어요.
   함께 소통하며 성장할 수 있는 분들을 환영합니다! ✨
 </div>
@@ -27,8 +27,9 @@
 
 ### 📊 GitHub Stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=hyeonji826&show_icons=true&include_all_commits=true&count_private=true&theme=transparent" alt="Hyeonji's GitHub Stats" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyeonji826&layout=donut&langs_count=8&theme=transparent" alt="Most Used Languages" /> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=hyeonji826&show_icons=true&include_all_commits=true&count_private=true&theme=transparent" alt="Hyeonji's GitHub Stats" />
 ---
+  
 ### 🛠️ Skills & Tech Stack
 
 #### Programming Languages

@@ -44,9 +44,10 @@
   <!-- 언어 비율 donut -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyeonji826&layout=donut&langs_count=8&theme=transparent" alt="Hyeonji's Languages" />
 
-  <!-- 커밋 및 등급 (Stats) -->
-  <img src="https://github-readme-stats.vercel.app/api?username=hyeonji826&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=transparent" alt="Hyeonji's GitHub Stats" />
+  <!-- 커밋 + 등급 표시 Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=hyeonji826&show_icons=true&include_all_commits=true&count_private=true&rank_icon=percentile&theme=transparent" alt="Hyeonji's GitHub Stats" />
 </p>
+
 
 ---
 ### 🛠️ Skills & Tech Stack

@@ -48,6 +48,9 @@
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white"/>
   <img src="https://img.shields.io/badge/YOLO-00FFFF?style=flat&logo=opencv&logoColor=black"/>
   <img src="https://img.shields.io/badge/Stable%20Diffusion-5A67D8?style=flat&logo=cloudflare&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Llama%203.2--3B-FF6F00?style=flat&logo=meta&logoColor=white"/>
+<img src="https://img.shields.io/badge/Qwen%202.5%20Math-007ACC?style=flat&logo=alibabacloud&logoColor=white"/>
+<img src="https://img.shields.io/badge/Transformer-FF1493?style=flat&logo=huggingface&logoColor=white"/>
   <img src="https://img.shields.io/badge/DreamBooth-8A2BE2?style=flat"/>
   <img src="https://img.shields.io/badge/LoRA-FF69B4?style=flat"/>
   <img src="https://img.shields.io/badge/OCR-Tesseract%2C%20EasyOCR%2C%20PaddleOCR-4285F4?style=flat&logo=google&logoColor=white"/>

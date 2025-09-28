@@ -58,6 +58,8 @@
   <img src="https://img.shields.io/badge/SCSS-CC6699?style=flat&logo=sass&logoColor=white"/>
   <img src="https://img.shields.io/badge/Matplotlib-005571?style=flat&logo=plotly&logoColor=white"/>
   <img src="https://img.shields.io/badge/Seaborn-76B900?style=flat&logo=plotly&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white"/>
 </p>
 
 #### Server

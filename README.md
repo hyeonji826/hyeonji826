@@ -35,7 +35,7 @@
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
-    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white"/>
 </p>
@@ -46,43 +46,45 @@
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white"/>
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white"/>
   <img src="https://img.shields.io/badge/YOLO-00FFFF?style=flat&logo=opencv&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Stable%20Diffusion-5A67D8?style=flat&logo=cloudflare&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Llama%203.2--3B-FF6F00?style=flat&logo=meta&logoColor=white"/>
-<img src="https://img.shields.io/badge/Qwen%202.5%20Math-007ACC?style=flat&logo=alibabacloud&logoColor=white"/>
-<img src="https://img.shields.io/badge/Transformer-FF1493?style=flat&logo=huggingface&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ControlNet-FF4500?style=flat&logo=ai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/DreamBooth-8A2BE2?style=flat"/>
-  <img src="https://img.shields.io/badge/LoRA-FF69B4?style=flat"/>
-  <img src="https://img.shields.io/badge/OCR-Tesseract%2C%20EasyOCR%2C%20PaddleOCR-4285F4?style=flat&logo=google&logoColor=white"/>
   <img src="https://img.shields.io/badge/SAM-000000?style=flat&logo=meta&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Stable%20Diffusion-5A67D8?style=flat&logo=cloudflare&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ControlNet-FF4500?style=flat&logo=ai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LoRA-FF69B4?style=flat"/>
+  <img src="https://img.shields.io/badge/DreamBooth-8A2BE2?style=flat"/>
+  <img src="https://img.shields.io/badge/Llama%203.2--3B-FF6F00?style=flat&logo=meta&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Qwen%202.5%20Math-007ACC?style=flat&logo=alibabacloud&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Transformer-FF1493?style=flat&logo=huggingface&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OCR-Tesseract%2C%20EasyOCR%2C%20PaddleOCR-4285F4?style=flat&logo=google&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/>
   <img src="https://img.shields.io/badge/React%20Native-61DAFB?style=flat&logo=react&logoColor=black"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/WebSocket-010101?style=flat&logo=websocket&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Socket.io-010101?style=flat&logo=socket.io&logoColor=white"/>
   <img src="https://img.shields.io/badge/SCSS-CC6699?style=flat&logo=sass&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white"/>
   <img src="https://img.shields.io/badge/Matplotlib-005571?style=flat&logo=plotly&logoColor=white"/>
   <img src="https://img.shields.io/badge/Seaborn-76B900?style=flat&logo=plotly&logoColor=white"/>
-<img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
-
-
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
 </p>
 
-#### Server
+#### Server / Network
 <p>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white"/>
   <img src="https://img.shields.io/badge/REST%20API-0096D6?style=flat&logo=swagger&logoColor=white"/>
   <img src="https://img.shields.io/badge/WebRTC-333333?style=flat&logo=webrtc&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Socket.io-010101?style=flat&logo=socket.io&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTTPS%20(SSL%2FCertbot)-4285F4?style=flat&logo=letsencrypt&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS%20EC2-FF9900?style=flat&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white"/>
 </p>
 
 #### Tooling / DevOps
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker--Compose-000000?style=flat&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white"/>
   <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white"/>
   <img src="https://img.shields.io/badge/Weights_&_Biases-FFBE00?style=flat&logo=weightsandbiases&logoColor=black"/>
@@ -113,3 +115,4 @@
   <img src="https://img.shields.io/badge/LaTeX-008080?style=flat&logo=latex&logoColor=white"/>
   <img src="https://img.shields.io/badge/Prezi-3181FF?style=flat&logo=prezi&logoColor=white"/>
 </p>
+

@@ -10,8 +10,9 @@
   # 👋 Hi there! I'm Hyeonji Noh — Medical AI Developer & Research Engineer  
 
   Passionate about **AI-driven healthcare software** and **medical imaging reconstruction**.  
-  Currently researching **CT super-resolution** and **low-dose enhancement** at Ajou University Hospital.  
-  Continuously growing through research, coding, and collaboration ✨  
+  Currently conducting **CT super-resolution** and **low-dose enhancement** research  
+  at **Ajou University Hospital (Dept. of Nuclear Medicine)**.  
+  Continuously growing through research, coding, and collaboration ✨
 </div>
 
 ---
@@ -52,6 +53,20 @@
 | **POLO (Paper Only Look Once)** | LLM-based system that simplifies academic papers and assists research workflow using Llama 3.2-3B QLoRA. |
 | **Minhwa-Studio** | DreamBooth + LoRA + ControlNet pipeline for generating Korean folk-painting style artworks (award-winning public AI dataset project). |
 | **BridgeHub** | Real-time collaboration platform using WebRTC, AWS EC2, and MongoDB + MySQL hybrid architecture. |
+
+---
+
+### 🏆 Awards
+
+#### 🥇 *Open Data Utilization AI Contest – Ministry of Culture, Sports and Tourism (공유마당 AI 원천데이터 활용 공모전)*  
+- **Awarded for**: *“Minhwa-Studio” – AI model generating Korean traditional folk paintings using DreamBooth-LoRA and ControlNet*  
+- **Organizer**: MCST x Korea Copyright Commission  
+- **Category**: AI Source Data Utilization / Creative Application  
+- **Year**: 2024  
+
+<div align="center">
+  <img src="https://drive.google.com/uc?export=view&id=15LwFgEf0cuBgGlC53a3CJNejDqt_q4nx" width="400" alt="Award Certificate – Minhwa-Studio AI Contest"/>
+</div>
 
 ---
 

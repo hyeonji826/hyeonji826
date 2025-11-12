@@ -58,12 +58,11 @@
 
 ### 🏆 Awards
 
-#### 🥇 *Open Data Utilization AI Contest – Ministry of Culture, Sports and Tourism (공유마당 AI 원천데이터 활용 공모전)*  
-- **Awarded for**: *“Minhwa-Studio” – AI model generating Korean traditional folk paintings using DreamBooth-LoRA and ControlNet*  
-- **Organizer**: MCST x Korea Copyright Commission  
-- **Category**: AI Source Data Utilization / Creative Application  
-- **Year**: 2024  
-
+#### 🥇 *AI Contest for Source-Data Utilization, Korea Copyright Commission (한국저작권위원회) – “공유마당 원천데이터 활용 AI 공모전”*  
+- **Awarded for**: *“Minhwa-Studio” – AI model generating Korean traditional folk-paintings using DreamBooth-LoRA and ControlNet*  
+- **Organizer**: Korea Copyright Commission (한국저작권위원회)  
+- **Year**: 2025  
+- **Certificate image**:  
 <div align="center">
   <img src="https://drive.google.com/uc?export=view&id=15LwFgEf0cuBgGlC53a3CJNejDqt_q4nx" width="400" alt="Award Certificate – Minhwa-Studio AI Contest"/>
 </div>
